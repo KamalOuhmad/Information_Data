@@ -1,0 +1,7 @@
+C:\Users\lnuar\source\repos\information data\information data\obj\Debug\information data.csprojResolveAssemblyReference.cache
+C:\Users\lnuar\source\repos\information data\information data\obj\Debug\information data.csproj.CoreCompileInputs.cache
+C:\Users\lnuar\source\repos\information data\information data\bin\Debug\information data.exe.config
+C:\Users\lnuar\source\repos\information data\information data\bin\Debug\information data.exe
+C:\Users\lnuar\source\repos\information data\information data\bin\Debug\information data.pdb
+C:\Users\lnuar\source\repos\information data\information data\obj\Debug\information data.exe
+C:\Users\lnuar\source\repos\information data\information data\obj\Debug\information data.pdb
